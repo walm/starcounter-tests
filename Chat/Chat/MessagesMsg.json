@@ -1,0 +1,6 @@
+{
+  "Messages": [
+    { "Body":  "", "CreatedAt": "" }
+  ],
+  $Messages: { DataType: "Message" }
+}
